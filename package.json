@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cryptiles": "^4.1.2",
+    "hoek": "^5.0.4",
     "lodash": "^4.17.11",
+    "macaddress": "^0.2.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "sshpk": "^1.14.2",
+    "url-parse": "^1.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
