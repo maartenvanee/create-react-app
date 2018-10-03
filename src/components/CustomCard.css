@@ -1,0 +1,48 @@
+.card
+{
+    display: block;
+    position: relative;
+    margin-top: 20px;
+    max-width: 250px;
+    background: #eee;
+    border: 2px solid #ddd;
+    padding: 18px;
+    box-sizing: border-box;
+}
+.card-button
+{
+    cursor: pointer;
+    display: inline-block;
+    margin-top: 15px;
+    background-color: #ddd;
+    border: 2px solid #ccc;
+}
+.card-button:hover
+{
+    background-color: #ccc;
+}
+
+.title
+{
+    width: 100%;
+    font-size: 14px;
+    font-size: 14px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card-button,
+.card .title-input
+{
+    width: 100%;
+    font-size: 14px;
+    padding: 10px 15px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.card .title-input
+{
+    outline: 0;
+    border: 2px solid #ccc;
+}
