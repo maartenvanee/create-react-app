@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "cryptiles": "^4.1.2",
+    "deep-extend": "^0.6.0",
     "hoek": "^5.0.4",
     "lodash": "^4.17.11",
     "macaddress": "^0.2.9",
+    "randomatic": "^3.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17",
