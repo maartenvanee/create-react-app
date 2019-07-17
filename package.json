@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "braces": "^3.0.2",
     "cryptiles": "^4.1.2",
     "deep-extend": "^0.6.0",
     "eslint": "^6.0.1",
