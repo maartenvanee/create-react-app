@@ -34,7 +34,7 @@ class CustomCard extends Component {
     renderForm() {
         return (
             <div className="card">
-                <input className="title-input" value={this.props.title} />
+                <input className="title-input" defaultValue={this.props.title} />
                 <div className="card-button" onClick={this.save}>Save</div>
             </div>
         );
