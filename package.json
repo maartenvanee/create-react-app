@@ -15,7 +15,8 @@
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17",
     "sshpk": "^1.14.2",
-    "url-parse": "^1.4.3"
+    "url-parse": "^1.4.3",
+    "webpack-dev-server": "^3.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
